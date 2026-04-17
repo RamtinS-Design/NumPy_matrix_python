@@ -1,5 +1,5 @@
 # Matrix Numpy (Python)
-A simple demonstration of matrix operations (multiplication, determinant, linear algebra practice) using Python and the NumPy library. 
+A simple demonstration of matrix operations using Python and the NumPy library. This program multiplies two matrices, find the determinant of a matrix, and solve linear equations.
 
 ## Features
 - Matrix multiplication
@@ -11,11 +11,6 @@ A simple demonstration of matrix operations (multiplication, determinant, linear
 - pip install numpy
 - Run the program with:
 - python matrix_numpy.py
-
-## Example
-- This program multiplies two matrices, find determinant of a matrix, and solve the system.
-- 2x + 3y = 5
-- x + 4y = 6
 
 ## What I Learned
 - Learning how arrays actually work
