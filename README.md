@@ -14,8 +14,8 @@ A simple demonstration of matrix operations (multiplication, determinant, linear
 
 ## Example
 - This program multiplies two matrices, find determinant of a matrix, and solve the system.
-2x + 3y = 5
-x + 4y = 6
+- 2x + 3y = 5
+- x + 4y = 6
 
 ## What I Learned
 - Learning how arrays actually work
